@@ -25,11 +25,11 @@ public class task_1 {
     }
     public static void main(String[] args) {
         Scanner in  = new Scanner(System.in);
-        NumberFormat currency = NumberFormat.getCurrencyInstance(new Locale("en","EN"));
+        NumberFormat currency = NumberFormat.getCurrencyInstance();
         System.out.print("Enter amount (USD): ");
         long amountUS = in.nextLong();
         System.out.print(currency.format(new CurrencyConversion(amountUS).getCurrencyUS()));
-        currency = NumberFormat.getCurrencyInstance();
+        currency = NumberFormat.getCurrencyInstance(new Locale("ru","RU"));
         System.out.print(" = " + currency.format(new CurrencyConversion(amountUS).getCurrencyRU()));
     }
 }
