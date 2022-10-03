@@ -7,7 +7,8 @@ public class Student {
     private int course;
     private String group;
     private int gpa;
-    public Student(String firstName, String lastName, String speciality, int course, String group,int gpa){
+
+    public Student(String firstName, String lastName, String speciality, int course, String group, int gpa) {
         this.firstName = firstName;
         this.lastName = lastName;
         this.speciality = speciality;

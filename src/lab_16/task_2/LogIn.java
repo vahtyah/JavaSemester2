@@ -41,7 +41,9 @@ public class LogIn extends JFrame implements ActionListener {
 
         con.add(panel2, "South");
 
+
         this.pack();
+        this.setSize(400,200);
         this.setVisible(true);
     }
 
