@@ -8,6 +8,8 @@ public class task_6 {
         String regex = "[\\w\\-_\\.+]*[\\w\\-_\\.]+\\@([\\w]+\\.)*[\\w]+";
         Pattern pattern = Pattern.compile(regex);
         Matcher matcher = pattern.matcher("user@example.com, root@localhost, myhost@@@com.ru");
+        System.out.println("String: user@example.com, root@localhost, myhost@@@com.ru");
+        System.out.println("Regex: [\\w\\-_\\.+]*[\\w\\-_\\.]+\\@([\\w]+\\.)*[\\w]+");
         while (matcher.find())
             System.out.println(matcher.group());
     }
