@@ -3,6 +3,12 @@ package src.lab_17.task_1;
 public class Student {
     private String rollNo;
     private String name;
+
+    public Student(String name, String rollNo){
+        this.name = name;
+        this.rollNo = rollNo;
+    }
+    public Student(){}
     public String getName(){
         return this.name;
     }
