@@ -1,10 +1,9 @@
-package src.lab_16.task_2;
+package src.lab_16.task_3;
 
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.util.ArrayList;
 
 public class LogIn extends JFrame implements ActionListener {
     JLabel lbService = new JLabel("Service: ");
