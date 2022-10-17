@@ -11,7 +11,7 @@ public class ArrayToList {
 
         for(int i=0;i< str.length; i++){
             list.add(str[i]);
-            System.out.print(list.get(i));
+            System.out.println(list.get(i));
         }
     }
 }

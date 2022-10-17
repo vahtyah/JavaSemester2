@@ -9,14 +9,12 @@ public class demoAnimation extends Canvas {
     Image img3;
     public demoAnimation(Image img,Image img2,Image img3)
     {
-        System.out.println("cst");
         this.img = img;
         this.img2 = img2;
         this.img3 = img3;
     }
     public void paint(Graphics g)
     {
-        System.out.println("cc1");
         if (img != null)
         {
             g.drawImage(img, 400, 100, Color.BLACK, this);

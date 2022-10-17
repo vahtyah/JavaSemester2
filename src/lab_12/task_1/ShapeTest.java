@@ -16,11 +16,6 @@ public class ShapeTest extends JFrame{
     }
 
     public void paint(Graphics graphics){
-
-       //g.drawOval(20, 30, 60, 60); //FOR CIRCLE
-
-       //g.drawRect(80, 30, 200, 200); // FOR SQUARE
-       //g.drawRect(200, 100, 100, 200); // FOR RECT
         graphics.setColor(Color.RED);
         graphics.fillRect(10, 50, 100, 100);
         graphics.setColor(Color.BLACK);

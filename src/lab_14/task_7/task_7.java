@@ -10,6 +10,5 @@ public class task_7 {
         Matcher matcher = pattern.matcher("F032_Password, TrySpy1, Smart_pass, A007");
         while (matcher.find())
             System.out.println(matcher.group());
-        //https://regex101.com/
     }
 }

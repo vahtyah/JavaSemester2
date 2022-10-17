@@ -4,12 +4,10 @@ import java.util.Scanner;
 
 public class task_8 {
     public static void getKey(){
-        Scanner myScanner = new Scanner( System.in);
-        String key = null;
+        String key = "";
         while(true){
             try {
                 System.out.print("Enter key: ");
-                key = myScanner.next();
                 if(key == "")
                     throw new ArithmeticException("Key is empty!");
                 else break;
