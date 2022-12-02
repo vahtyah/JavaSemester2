@@ -1,4 +1,4 @@
-package src.lab_3.FormatString.task_3;
+package lab_3.FormatString.task_3;
 
 public class task_3 {
     public static class Employee{

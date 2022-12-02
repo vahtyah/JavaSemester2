@@ -1,4 +1,4 @@
-package src.lab_3.obolochkiii;
+package lab_3.obolochkiii;
 
 public class oblochky {
     public static void main(String[] args) {

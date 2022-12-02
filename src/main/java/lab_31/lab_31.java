@@ -1,4 +1,4 @@
-package src.lab_31;
+package lab_31;
 
 public class lab_31 {
     public static int divide(int dividend, int divisor) {
@@ -9,6 +9,6 @@ public class lab_31 {
     }
 
     public static int add(int number1, int number2) {
-        return number1 + number2;
+        return number1 - number2;
     }
 }

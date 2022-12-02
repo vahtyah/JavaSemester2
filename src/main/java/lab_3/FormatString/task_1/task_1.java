@@ -1,4 +1,4 @@
-package src.lab_3.FormatString.task_1;
+package lab_3.FormatString.task_1;
 
 import java.text.NumberFormat;
 import java.util.Currency;

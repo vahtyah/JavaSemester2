@@ -1,6 +1,6 @@
-package src.lab_3.FormatString.task_2;
+package lab_3.FormatString.task_2;
 
-import src.lab_3.FormatString.task_1.task_1;
+import lab_3.FormatString.task_1.task_1;
 
 import java.io.IOException;
 import java.text.NumberFormat;
