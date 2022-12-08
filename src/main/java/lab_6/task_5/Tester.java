@@ -1,4 +1,4 @@
-package src.lab_6.task_5;
+package lab_6.task_5;
 
 public class Tester {
     public static void main(String[] args) {

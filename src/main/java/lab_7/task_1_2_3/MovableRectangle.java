@@ -1,6 +1,8 @@
-package src.lab_7.task_1_2_3;
+package lab_7.task_1_2_3;
 
-public class MovableRectangle implements Movable{
+import lab_6.task_5.Movable;
+
+public class MovableRectangle implements Movable {
     private MovablePoint topLeft;
     private MovablePoint bottomRight;
 

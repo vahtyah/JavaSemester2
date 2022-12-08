@@ -1,4 +1,4 @@
-package src.lab_6.task_4;
+package lab_6.task_4;
 
 public class Computer implements Priceable {
     private double price;

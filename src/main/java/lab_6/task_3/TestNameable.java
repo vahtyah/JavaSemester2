@@ -1,4 +1,4 @@
-package src.lab_6.task_3;
+package lab_6.task_3;
 
 public class TestNameable {
     public static void main(String[] args) {

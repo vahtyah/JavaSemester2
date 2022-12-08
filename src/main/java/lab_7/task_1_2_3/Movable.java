@@ -1,4 +1,4 @@
-package src.lab_7.task_1_2_3;
+package lab_7.task_1_2_3;
 
 public interface Movable {
     void moveUp();

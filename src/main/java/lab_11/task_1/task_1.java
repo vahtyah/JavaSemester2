@@ -1,4 +1,4 @@
-package src.lab_11.task_1;
+package lab_11.task_1;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;

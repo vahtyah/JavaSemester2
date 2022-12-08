@@ -1,3 +1,5 @@
+package lab_2_oldDoc;
+
 import static java.lang.System.*;
 
 public class TestAuthor {

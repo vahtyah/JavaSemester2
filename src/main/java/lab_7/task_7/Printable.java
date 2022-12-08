@@ -1,4 +1,4 @@
-package src.lab_7.task_7;
+package lab_7.task_7;
 
 public class Printable {
     private String name;

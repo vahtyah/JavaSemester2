@@ -1,4 +1,4 @@
-package src.lab_6.task_1_2;
+package lab_6.task_1_2;
 
 public class Movable {
     interface IMovable{

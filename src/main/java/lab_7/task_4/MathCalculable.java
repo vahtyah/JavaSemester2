@@ -1,4 +1,4 @@
-package src.lab_7.task_4;
+package lab_7.task_4;
 
 public interface MathCalculable {
     double pow(double x, double y);

@@ -1,7 +1,7 @@
-package src.lab_7.task_1_2_3;
+package lab_7.task_1_2_3;
 
-import src.lab_6.task_5.Movable;
-import src.lab_6.task_5.MovablePoint;
+import lab_6.task_5.Movable;
+import lab_6.task_5.MovablePoint;
 
 public class Tester {
     public static void main(String[] args) {

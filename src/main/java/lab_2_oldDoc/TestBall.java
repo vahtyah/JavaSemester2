@@ -1,3 +1,5 @@
+package lab_2_oldDoc;
+
 public class TestBall {
     public static void main(String[] args) {
         Ball b1 = new Ball(1.2,2.5);

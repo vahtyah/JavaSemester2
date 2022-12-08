@@ -1,6 +1,6 @@
-package src.lab_10;
+package lab_10;
 
-import src.lab_9.task;
+import lab_9.task;
 
 import java.util.ArrayList;
 import java.util.Comparator;

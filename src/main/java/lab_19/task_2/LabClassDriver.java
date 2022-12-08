@@ -1,6 +1,4 @@
-package src.lab_19.task_2;
-
-import src.lab_9.task;
+package lab_19.task_2;
 
 public class LabClassDriver implements LabClassUI{
 

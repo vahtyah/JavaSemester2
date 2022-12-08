@@ -1,6 +1,6 @@
-package src.lab_7.task_1_2_3;
+package lab_7.task_1_2_3;
 
-import src.lab_6.task_5.Movable;
+import lab_6.task_5.Movable;
 
 public  class MovablePoint implements Movable {
     protected int x;

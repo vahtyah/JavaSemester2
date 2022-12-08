@@ -1,3 +1,5 @@
+package lab_2_oldDoc;
+
 public class Ball {
     private double x;
     private double y;

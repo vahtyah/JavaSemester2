@@ -1,4 +1,4 @@
-package src.lab_9;
+package lab_9;
 
 import java.util.Comparator;
 

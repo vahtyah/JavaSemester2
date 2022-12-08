@@ -1,4 +1,4 @@
-package src.lab_6.task_11;
+package lab_6.task_11;
 
 public class Convert implements IConvertable{
     private double C;

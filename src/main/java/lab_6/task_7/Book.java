@@ -1,4 +1,4 @@
-package src.lab_6.task_7;
+package lab_6.task_7;
 
 public class Book implements Printable {
     private double price;

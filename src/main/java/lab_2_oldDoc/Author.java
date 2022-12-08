@@ -1,3 +1,5 @@
+package lab_2_oldDoc;
+
 public class Author {
     private String name;
     private String email;

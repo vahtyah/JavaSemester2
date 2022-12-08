@@ -1,4 +1,4 @@
-package src.lab_11.task_2;
+package lab_11.task_2;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
