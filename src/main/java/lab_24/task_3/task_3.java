@@ -1,4 +1,4 @@
-package src.lab_24.task_3;
+package lab_24.task_3;
 
 import javax.print.Doc;
 import java.util.ArrayList;

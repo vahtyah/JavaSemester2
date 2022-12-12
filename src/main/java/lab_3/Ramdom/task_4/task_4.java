@@ -1,4 +1,4 @@
-package src.lab_3.Ramdom.task_4;
+package lab_3.Ramdom.task_4;
 
 import java.util.Scanner;
 

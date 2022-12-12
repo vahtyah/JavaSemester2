@@ -1,4 +1,4 @@
-package src.lab_20.task_4;
+package lab_20.task_4;
 
 public class Calculator {
     public static <T extends Number, V extends Number> double sum(T a, V b) {

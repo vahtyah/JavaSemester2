@@ -1,4 +1,4 @@
-package src.lab_30;
+package lab_30;
 
 public class Drink extends MenuItem implements Alcoholable {
     private double alcoholVol;

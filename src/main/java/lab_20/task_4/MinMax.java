@@ -1,4 +1,4 @@
-package src.lab_20.task_4;
+package lab_20.task_4;
 
 import java.util.Arrays;
 import java.util.Comparator;

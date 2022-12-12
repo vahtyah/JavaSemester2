@@ -1,4 +1,4 @@
-package src.lab_20.task_1_2_3;
+package lab_20.task_1_2_3;
 
 public class task_1<T extends String, V extends Animal, K extends Number> {
     private T type;

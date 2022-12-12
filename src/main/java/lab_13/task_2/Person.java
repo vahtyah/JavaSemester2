@@ -1,4 +1,4 @@
-package src.lab_13.task_2;
+package lab_13.task_2;
 
 public class Person {
     private String firstName;

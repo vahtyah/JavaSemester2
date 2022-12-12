@@ -1,6 +1,6 @@
-package src.lab_22.task_2;
+package lab_22.task_2;
 
-import src.lab_15.task_4.Calculator;
+import lab_15.task_4.Calculator;
 
 import javax.swing.*;
 import java.awt.*;

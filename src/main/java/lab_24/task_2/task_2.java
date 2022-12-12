@@ -1,4 +1,4 @@
-package src.lab_24.task_2;
+package lab_24.task_2;
 
 
 public class task_2 {

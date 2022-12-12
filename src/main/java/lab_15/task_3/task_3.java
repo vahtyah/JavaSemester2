@@ -1,4 +1,4 @@
-package src.lab_15.task_3;
+package lab_15.task_3;
 
 import java.awt.*;
 import java.awt.event.ActionEvent;

@@ -1,4 +1,4 @@
-package src.lab_17.task_1;
+package lab_17.task_1;
 
 public class Student {
     private String rollNo;

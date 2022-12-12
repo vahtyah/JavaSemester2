@@ -1,4 +1,4 @@
-package src.lab_29;
+package lab_29;
 
 public class MenuItem implements Item {
     private int cost;

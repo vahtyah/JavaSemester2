@@ -1,4 +1,4 @@
-package src.lab_23.task_2;
+package lab_23.task_2;
 
 import java.util.function.Function;
 import java.util.function.Predicate;

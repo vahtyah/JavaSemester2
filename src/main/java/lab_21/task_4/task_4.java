@@ -1,4 +1,4 @@
-package src.lab_21.task_4;
+package lab_21.task_4;
 
 import java.io.File;
 import java.util.ArrayList;

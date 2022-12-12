@@ -1,4 +1,4 @@
-package src.lab_14.task_3;
+package lab_14.task_3;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

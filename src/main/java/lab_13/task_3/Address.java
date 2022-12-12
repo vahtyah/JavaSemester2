@@ -1,4 +1,4 @@
-package src.lab_13.task_3;
+package lab_13.task_3;
 
 import java.util.StringTokenizer;
 

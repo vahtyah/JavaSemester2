@@ -1,4 +1,4 @@
-package src.lab_30;
+package lab_30;
 
 import java.io.*;
 import java.util.Arrays;

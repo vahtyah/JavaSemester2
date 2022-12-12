@@ -1,4 +1,4 @@
-package src.lab_13.task_6;
+package lab_13.task_6;
 
 import java.util.*;
 import java.io.*;

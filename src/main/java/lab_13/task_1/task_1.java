@@ -1,4 +1,4 @@
-package src.lab_13.task_1;
+package lab_13.task_1;
 
 import java.util.Locale;
 

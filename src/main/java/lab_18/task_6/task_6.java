@@ -1,4 +1,4 @@
-package src.lab_18.task_6;
+package lab_18.task_6;
 
 public class task_6 {
     public static void printMessage(String key) {

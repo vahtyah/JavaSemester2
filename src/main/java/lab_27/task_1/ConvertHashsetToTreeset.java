@@ -1,4 +1,4 @@
-package src.lab_27.task_1;
+package lab_27.task_1;
 
 import java.util.HashSet;
 import java.util.Set;

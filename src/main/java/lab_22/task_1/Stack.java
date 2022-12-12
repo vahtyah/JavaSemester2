@@ -1,4 +1,4 @@
-package src.lab_22.task_1;
+package lab_22.task_1;
 
 public class Stack {
     private float arr[];

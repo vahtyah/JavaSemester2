@@ -1,4 +1,4 @@
-package src.lab_24.task_1;
+package lab_24.task_1;
 
 public class task_1 {
     public interface ComplexAbstractFactory{

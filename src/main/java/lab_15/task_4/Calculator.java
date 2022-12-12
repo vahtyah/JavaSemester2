@@ -1,4 +1,4 @@
-package src.lab_15.task_4;
+package lab_15.task_4;
 
 import javax.swing.*;
 import java.awt.*;

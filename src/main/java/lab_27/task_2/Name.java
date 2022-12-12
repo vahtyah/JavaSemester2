@@ -1,4 +1,4 @@
-package src.lab_27.task_2;
+package lab_27.task_2;
 
 import java.util.*;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package src.lab_13.task_5;
+package lab_13.task_5;
 
 public class FormatNumberTelephone {
     public static String format(String numberTelephone){

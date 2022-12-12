@@ -1,4 +1,4 @@
-package src.lab_13.task_4;
+package lab_13.task_4;
 
 public class Shirt {
     private String code;

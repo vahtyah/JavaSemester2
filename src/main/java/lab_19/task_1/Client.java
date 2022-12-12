@@ -1,4 +1,4 @@
-package src.lab_19.task_1;
+package lab_19.task_1;
 
 public class Client {
     private String name;

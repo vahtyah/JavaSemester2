@@ -1,4 +1,4 @@
-package src.lab_23.task_2;
+package lab_23.task_2;
 
 public abstract class AbstractQueue implements Queue {
     // inv: size >= 0

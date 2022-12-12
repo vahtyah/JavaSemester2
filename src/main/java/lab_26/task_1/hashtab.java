@@ -1,4 +1,4 @@
-package src.lab_26.task_1;
+package lab_26.task_1;
 
 import java.util.Dictionary;
 import java.util.HashMap;

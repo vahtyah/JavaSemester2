@@ -1,4 +1,4 @@
-package src.lab_25.task_3;
+package lab_25.task_3;
 
 import java.util.Scanner;
 import java.util.regex.Matcher;

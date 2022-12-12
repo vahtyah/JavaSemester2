@@ -1,4 +1,4 @@
-package src.lab_20.task_1_2_3;
+package lab_20.task_1_2_3;
 
 import java.io.Serializable;
 

@@ -1,4 +1,4 @@
-package src.lab_20.task_5;
+package lab_20.task_5;
 
 public class Matrix <T extends Number> {
     private T[][] matrix;

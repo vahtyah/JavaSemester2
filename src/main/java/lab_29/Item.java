@@ -1,4 +1,4 @@
-package src.lab_29;
+package lab_29;
 
 public interface Item {
     int getCost();

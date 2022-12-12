@@ -1,4 +1,4 @@
-package src.lab_29;
+package lab_29;
 
 import java.util.HashMap;
 

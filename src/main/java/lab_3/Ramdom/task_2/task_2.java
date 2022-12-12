@@ -1,4 +1,4 @@
-package src.lab_3.Ramdom.task_2;
+package lab_3.Ramdom.task_2;
 
 import java.util.ArrayList;
 import java.util.Random;

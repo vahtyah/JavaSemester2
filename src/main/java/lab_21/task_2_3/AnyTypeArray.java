@@ -1,4 +1,4 @@
-package src.lab_21.task_2_3;
+package lab_21.task_2_3;
 
 public class AnyTypeArray<E> {
     private E [] arr;
